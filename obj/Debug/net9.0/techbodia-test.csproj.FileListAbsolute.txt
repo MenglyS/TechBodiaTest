@@ -1,0 +1,14 @@
+G:\Learning\C#\techbodia-test\bin\Debug\net9.0\techbodia-test.exe
+G:\Learning\C#\techbodia-test\bin\Debug\net9.0\techbodia-test.deps.json
+G:\Learning\C#\techbodia-test\bin\Debug\net9.0\techbodia-test.runtimeconfig.json
+G:\Learning\C#\techbodia-test\bin\Debug\net9.0\techbodia-test.dll
+G:\Learning\C#\techbodia-test\bin\Debug\net9.0\techbodia-test.pdb
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.GeneratedMSBuildEditorConfig.editorconfig
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.AssemblyInfoInputs.cache
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.AssemblyInfo.cs
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.csproj.CoreCompileInputs.cache
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.dll
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\refint\techbodia-test.dll
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.pdb
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.genruntimeconfig.cache
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\ref\techbodia-test.dll

@@ -8,7 +8,7 @@ namespace TechBodiaTest
         static void Main(string[] args)
         {
             Console.Write("Enter notification channel here: ");
-            string notfChan = Console.ReadLine();
+            string notfChan = Console.ReadLine() ?? "";
 
             bool isFirst = true, isOpenBracketFounded = false;
             string chan = "";

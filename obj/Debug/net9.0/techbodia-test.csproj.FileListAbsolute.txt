@@ -12,3 +12,4 @@ G:\Learning\C#\techbodia-test\obj\Debug\net9.0\refint\techbodia-test.dll
 G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.pdb
 G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.genruntimeconfig.cache
 G:\Learning\C#\techbodia-test\obj\Debug\net9.0\ref\techbodia-test.dll
+G:\Learning\C#\techbodia-test\obj\Debug\net9.0\techbodia-test.sourcelink.json
